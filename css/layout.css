@@ -1,0 +1,107 @@
+/* Extra small devices - Phones (<768px) */
+@media only screen and (min-width: 1px) {
+
+	body {
+		background-color: #4A5C66;
+	}
+
+	.stylish-input-group .input-group-addon{
+	    background: white !important; 
+	}
+	.stylish-input-group .form-control{
+		border-right:0; 
+		box-shadow:0 0 0; 
+		border-color:#ccc;
+	}
+	.stylish-input-group button{
+	    border:0;
+	    background:transparent;
+	}
+
+	* {
+		border-radius: 0px !important;
+	}
+
+	footer#main-footer {
+		background-color: #4A5C66;
+		color: #FFFFFF;
+	}
+
+	.bliztron, .bliztron-orange {
+		background-color: #FFFFFF;
+		padding: 30px;
+	}
+
+	.bliztron-orange {
+		background-color: #F9D47F;
+	}
+
+	section#main-content {
+		padding: 20px;
+		background-color: #F2F4F5;
+	}
+
+	div#navbar {
+		margin-top: 40px;
+	}
+
+	#social-box-area {
+	    color: white;
+	    height: 90px;
+	    padding-top: 20px;
+	}
+
+	img#logo {
+		max-height: 50px;
+	}
+
+	header#main-header > nav {
+		background-color: #FFFFFF !important;
+		margin-bottom: 0px;
+		min-height: 100px;
+	}
+
+}
+
+/* Small devices - Tablets (â‰¥768px) */
+@media only screen and (min-width: 768px) {
+
+	section#main-content {
+		padding: 20px;
+	}
+
+	img#logo {
+		max-height: 100px;
+	}
+
+	header#main-header > nav {
+		min-height: 150px;
+	}
+
+}
+
+/* Medium devices - Desktops (â‰¥992px) */
+@media only screen and (min-width: 992px) {
+
+	section#main-content {
+		padding: 30px;
+	}
+
+	img#logo {
+		max-height: 150px;
+	}
+
+	header#main-header > nav {
+		min-height: 200px;
+	}
+
+}
+
+
+/* Large devices - Desktops (â‰¥1200px) */
+@media only screen and (min-width: 1200px) {
+
+  
+}
+
+‌‌‌‌
