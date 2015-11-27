@@ -2,9 +2,16 @@
 @media only screen and (min-width: 1px) {
 
 	body {
-		background-color: #4A5C66;
-	}
+		background-color: #F2F4F5;
+		font-family: Arial;
+		color: #4A5C66;
 
+	}
+	
+	.wrapper{
+	margin: 0 10% 0 10%;
+	}
+	
 	#search-input-box {
 		max-width: 220px !important;
 	}
@@ -28,7 +35,7 @@
 
 	nav.navbar {
 		border: none !important;
-		border-bottom: 1px solid #333333 !important;
+		border-bottom: 1px solid #FFFFFF !important;
 	}
 
 	footer#main-footer {
@@ -70,6 +77,11 @@
 		min-height: 100px;
 	}
 
+	.clearfix{
+	float:left;
+	}
+	
+	
 }
 
 /* Small devices - Tablets (â‰¥768px) */
