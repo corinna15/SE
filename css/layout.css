@@ -11,6 +11,11 @@
 	.wrapper{
 	margin: 0 10% 0 10%;
 	}
+	#Inhaltsliste{
+	font-size: 1.2em;
+	margin-top:-20px;
+	}
+	
 	
 	#search-input-box {
 		max-width: 220px !important;
