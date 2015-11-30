@@ -8,14 +8,21 @@
 	}
 	
 	.wrapper{
-	margin: 0 10% 0 10%;
+		margin: 0;
 	}
-	
-	#Inhaltsliste{
-	font-size: 1.2em;
-	margin-top:-15px;
+
+	.navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:active, .navbar-inverse .navbar-nav > li > a:focus, .navbar-inverse .navbar-nav > li > a:hover {
+		color: #4A5C66;
 	}
-	
+
+	.navbar-toggle {
+		background-color: #4A5C66;
+	}
+
+	#offer-help-list {
+		font-size: 1.2em;
+		margin-top: -15px;
+	}
 	
 	#search-input-box {
 		max-width: 220px !important;
@@ -89,8 +96,12 @@
 	
 }
 
-/* Small devices - Tablets (â‰¥768px) */
+/* Small devices - Tablets (>=768px) */
 @media only screen and (min-width: 768px) {
+
+	.wrapper{
+		margin: 0 20px;
+	}
 
 	section#main-content {
 		padding: 20px;
@@ -106,7 +117,7 @@
 
 }
 
-/* Medium devices - Desktops (â‰¥992px) */
+/* Medium devices - Desktops (>=992px) */
 @media only screen and (min-width: 992px) {
 
 	section#main-content {
@@ -121,4 +132,16 @@
 		min-height: 200px;
 	}
 
+}
+
+/* Large devices - Desktops (>=1200px) */
+@media only screen and (min-width: 1200px) {
+
+}
+
+/* X-Large devices - Desktops (>=1200px) */
+@media only screen and (min-width: 1700px) {
+	.wrapper{
+		margin: 0 190px;
+	}
 }
