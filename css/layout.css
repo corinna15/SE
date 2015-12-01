@@ -11,7 +11,6 @@
 		margin: 0;
 	}
 
-		
 	.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:focus, .navbar-inverse .navbar-nav > .open > a:hover{
 		color: #4A5C66;
 		background-color: #dfe5e6;
@@ -62,6 +61,10 @@
 		color: #FFFFFF;
 	}
 
+	#linklist{
+	list-style-type: none;
+	}
+	
 	.bliztron, .bliztron-orange {
 		background-color: #FFFFFF;
 		padding: 30px;
