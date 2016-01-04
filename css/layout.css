@@ -93,14 +93,8 @@
 		max-height: 50px;
 	}
 	img#poster{
-<<<<<<< HEAD
 	width:100%;
 	height:100%;
-	}
-
-=======
-		width: 100%;
-		height:100%;
 	}
 	
 	img#giessen{
@@ -124,7 +118,7 @@
 	margin: 10px;
 	}
 	
->>>>>>> c0df7f285bbe911f98f989a7a98c0a254135840b
+
 	header#main-header > nav {
 		background-color: #FFFFFF !important;
 		margin-bottom: 0px;
