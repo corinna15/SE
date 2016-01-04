@@ -107,6 +107,11 @@
 	float :left;
 	margin: 10px;
 	}
+	img.flyer{
+	width: 100%;
+	height:100%;
+	}
+	
 	img.raum-img{
 	width: 70%;
 	height:70%;
@@ -150,11 +155,17 @@
 		width: 100%;
 		height:100%;
 	}
+	
 	img.kontakt{
 	width: 35%;
 	height:35%;
 	float :left;
 	margin: 10px;
+	}
+	
+	img.flyer{
+	width: 100%;
+	height:100%;
 	}
 	
 	img.raum-img{
