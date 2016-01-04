@@ -111,13 +111,34 @@
 	width: 100%;
 	height:100%;
 	}
-	
+	img#jahrespraktikant{
+	width: 50%;
+	height:50%;
+	float :left;
+	margin: 10px;
+	}
 	img.raum-img{
 	width: 70%;
 	height:70%;
 	margin: 10px;
 	}
+	img#baum-bliz{
+	width: 40%;
+	height:40%;
+	float :right;
+	margin: 10px;
+	}
 	
+	img#preis2{
+	width: 50%;
+	height:50%;
+	float :left;
+	margin: 10px;
+	}
+	img.preis1und3{
+	width: 100%;
+	height:100%;
+	}
 
 	header#main-header > nav {
 		background-color: #FFFFFF !important;
@@ -161,6 +182,35 @@
 	width: 35%;
 	height:35%;
 	float :left;
+	margin: 10px;
+	}
+	
+	img#baum-bliz{
+	width: 40%;
+	height:40%;
+	float :right;
+	margin: 10px;
+	}
+	img#preis2{
+	width: 50%;
+	height:50%;
+	float :left;
+	margin: 10px;
+	}
+	img.preis1und3{
+	width: 100%;
+	height:100%;
+	}
+	img#jahrespraktikant{
+	width: 50%;
+	height:50%;
+	float :left;
+	margin: 10px;
+	}
+	
+	img.tag-bilder{
+	width: 40%;
+	height:40%;
 	margin: 10px;
 	}
 	
