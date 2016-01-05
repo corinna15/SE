@@ -107,11 +107,11 @@
 		padding: 30px;
 	}
 
-	.bliztron-orange {
+	.bliztron-orange{
 		background-color: #F9D47F;
 	}
 	
-	.bliztron-orange a {
+	.bliztron-orange a, .bliztron a{
 		color: #4a5c66;
 	}
 
