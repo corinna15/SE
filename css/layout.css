@@ -44,7 +44,7 @@
 
 	#offer-help-list {
 		font-size: 1.2em;
-		margin-top: -15px;
+		margin-top: 10px;
 	}
 	
 	#search-input-box {
@@ -82,6 +82,26 @@
 	list-style-type: none;
 	}
 	
+	.bliztron h1 {
+		font-size: 30px;
+	}
+	
+	.bliztron h2 {
+		font-size: 25px;
+	}
+	
+	.bliztron h3 {
+		font-size: 20px;
+	}
+	
+	.bliztron p {
+		font-size: 16px;
+	}
+	
+	ul#offer-help-list li {
+		16px;
+	}
+	
 	.bliztron, .bliztron-orange {
 		background-color: #FFFFFF;
 		padding: 30px;
@@ -89,6 +109,10 @@
 
 	.bliztron-orange {
 		background-color: #F9D47F;
+	}
+	
+	.bliztron-orange a {
+		color: #4a5c66;
 	}
 
 	section#main-content {
