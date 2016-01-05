@@ -10,6 +10,23 @@
 	.wrapper{
 		margin: 0;
 	}
+	
+	#subfooter {
+		padding: 10px;
+	}
+	
+	#subfooter div:first-child {
+		margin-right: 4px;
+	}
+	
+	footer a {
+		color: white;
+	}
+	
+	footer a:hover {
+		color: white;
+		text-decoration: underline !important;
+	}
 
 	.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:focus, .navbar-inverse .navbar-nav > .open > a:hover{
 		color: #4A5C66;
